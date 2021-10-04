@@ -5,6 +5,12 @@ Rock beats Scissores
 Scissores beats Paper
 Paper beats Rock
 ........................................Purely a Game of Chance
+
+
+
+
+
+
 Player=input("Please Enter Your Name :: \n")
 rounds=int(input("Please Enter The Number Of Rounds You want To play \n" "Between 3 to 6:: \n"))
 import random
